@@ -1,0 +1,12 @@
+{
+  "name": "DSH Token 用量",
+  "short_name": "DSH 用量",
+  "description": "DeepSeek Harness Token 用量看板",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0A0C10",
+  "theme_color": "#0A0C10",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
